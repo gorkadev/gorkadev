@@ -10,6 +10,14 @@ exists instead of the code they imagine.
 
 #### What I'm building
 
+**Right now: [numa](https://github.com/gorkadev/numa)** — describe your game and
+an AI agent builds it: a 2D or 3D game running in your browser, with a chat
+beside it to keep changing it. It's where most of my time has gone these last
+few weeks. Next.js, three.js, and Trigger.dev for the agent runs.
+
+- **[flight-deck](https://github.com/gorkadev/flight-deck)** — instruments for
+  the Claude Code cockpit: small mods that keep what you need beside the
+  prompt, starting with Waypoint (git branch and worktree at a glance).
 - **[api-zero](https://github.com/api-zero)** — a typed HTTP client for TypeScript
   and React. Deletes the hand-written `api.ts` from every project. Sits
   underneath TanStack Query, which keeps owning the cache.
